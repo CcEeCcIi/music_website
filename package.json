@@ -1,0 +1,16 @@
+{
+  "name": "project-2020fall-fang-tingting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve_app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "forever": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tingting Fang",
+  "license": "ISC"
+}
